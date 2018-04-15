@@ -7,3 +7,6 @@ npm run dev
 
 in cmd2: cd app folder
 wscat -c ws://localhost:3001
+
+in cmd3: cd app folder
+wscat -c ws://localhost:3002
